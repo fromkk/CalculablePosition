@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import CalculablePosition
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print(CGPoint(x: 5.0, y: 5.0) + 5.0)
         // Do any additional setup after loading the view, typically from a nib.
     }
 

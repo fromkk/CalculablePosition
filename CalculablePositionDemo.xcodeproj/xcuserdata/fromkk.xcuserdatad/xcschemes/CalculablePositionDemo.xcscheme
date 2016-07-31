@@ -48,6 +48,16 @@
                ReferencedContainer = "container:CalculablePositionDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "ADC1248E1D4DECB80028B83A"
+               BuildableName = "CalculablePositionTests.xctest"
+               BlueprintName = "CalculablePositionTests"
+               ReferencedContainer = "container:CalculablePositionDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
